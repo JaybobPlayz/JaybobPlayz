@@ -1,5 +1,5 @@
 - 👋 Hi, I’m JaybobPlayz
-- 👀 I’m interested in developing ROBLOX games
+- 👀 I’m interested in technology
 - 🌱 I code ROBLOX executors in C# and also code C++ malware.
 - 💞️ I’m looking to collaborate on Discord!
 - 📫 How to reach me! (Discord - JaybobPlayz#9926)
